@@ -1,0 +1,7 @@
+word = "#";
+console.log(word);
+
+for (i = 0; i < 7; i++){
+    word = word + "#";
+      console.log(word);
+}
